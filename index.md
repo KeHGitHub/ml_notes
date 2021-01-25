@@ -4,18 +4,26 @@
 
 ## Intro
 
-Supervised Machine Learning: right answers are given--
+### Supervised & Unsupervised Machine Learning
+Supervised Machine Learning: 
+right answers are given--
 1. regression(predict house price)
 2. classifcation problem(breast cancer malignant or benign)
 
-Unsupervised Machine Learning: find structures in data sets--
-1. grouping (link similar news together,organize computing clusters, market segmentation)
-2. cocktail party problem(去杂音)
+Unsupervised Machine Learning: 
+find structures in data sets--
+1. clustering (link similar news together,organize computing clusters, market segmentation)
+2. unclustering (cocktail party problem(去杂音))
+
+### Model Representation
+notations:
+1. m: number of training examples
+2. x's: input
+3. y's: output
+4. (x, y): one training example
+5. (x^i, y^i): i th training example
 
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -28,12 +36,3 @@ Unsupervised Machine Learning: find structures in data sets--
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeHGitHub/ml_notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
