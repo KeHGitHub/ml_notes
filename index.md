@@ -7,8 +7,8 @@
 ### Supervised & Unsupervised Machine Learning
 Supervised Machine Learning: 
 right answers are given--
-1. regression(predict house price)
-2. classifcation problem(breast cancer malignant or benign)
+1. regression(predict house price, target variable is continuous)
+2. classifcation problem(breast cancer malignant or benign, target varible is discrete)
 
 Unsupervised Machine Learning: 
 find structures in data sets--
@@ -22,6 +22,7 @@ notations:
 3. y's: output
 4. (x, y): one training example
 5. (x^i, y^i): i th training example
+6. h: h maps x's to y's
 
 
 
