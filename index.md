@@ -2,12 +2,16 @@
 
 [点我跳转coursera视频课程链接](https://www.coursera.org/learn/machine-learning)
 
-## Markdown
+## Intro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Supervised Machine Learning: right answers are given--
+1. regression(predict house price)
+2. classifcation problem(breast cancer malignant or benign)
 
-```markdown
-Syntax highlighted code block
+Unsupervised Machine Learning: find structures in data sets--
+1. grouping (link similar news together,organize computing clusters, market segmentation)
+2. cocktail party problem(去杂音)
+
 
 # Header 1
 ## Header 2
