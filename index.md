@@ -1,10 +1,8 @@
-## 吴恩达机器学习笔记
+# 吴恩达机器学习笔记
 
-You can use the [editor on GitHub](https://github.com/KeHGitHub/ml_notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[点我跳转coursera视频课程链接](https://www.coursera.org/learn/machine-learning)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
